@@ -1,0 +1,77 @@
+body {
+	background-color: grey;
+	color: #ffffff;
+	font-family:"sans-serif";
+	font-weight: 200;
+  }
+  
+  .row {
+	margin: 20px 0px;
+  }
+  
+  .logo {
+	display: block;
+	margin: auto;
+	width: 200px;
+	height:200px
+  }
+  
+  .title {
+	color: #f5e509fc;
+	font-family: "sans-serif";
+	text-align: center;
+	font-weight: bolder;
+  }
+  
+  #addForm {
+	margin: auto;
+	max-width: 40%;
+  }
+  
+  #addForm button {
+	width: 100%;
+  }
+  
+  #addForm button,
+  .devourBtns {
+	background-color: #19a2e2;
+	border: none;
+	color: #ffffff;
+	font-weight: 100;
+  }
+  
+  .card {
+	background-color: #066365;
+	margin: 30px 0px;
+  }
+  
+  .card-header {
+	color: #ffffff;
+	font-size: 24px;
+	text-align: center;
+  }
+  
+  .card-body, ul {
+	margin: 0;
+	padding: 0;
+  }
+  
+  li {
+	color: #eff163;
+	list-style-type: none;
+	margin: 5px;
+	padding: 15px;
+  }
+  
+  .devourBtns {
+	float: right;
+  }
+  
+  .devoured-header {
+	color:  #ffffff;
+  }
+  
+  .devoured {
+	color:#eff163;
+	
+  }

@@ -1,5 +1,5 @@
-# burger Link
-[FriendFinder](https://young-mesa-78153.herokuapp.com/)
+# Eat-Da-Burger Link
+[Eat-Da-Burger](https://young-mesa-78153.herokuapp.com/)
 
 # Eat Da Burger
 - Eat-Da-Burger is a restaurant app that lets users to add the nemaes of the burgers they want to eat.
